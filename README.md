@@ -1,4 +1,4 @@
-# universalslack
+# Universal Slack Search
 Bring Slack Search wherever you are
 
 ## Toggle Slack Search
